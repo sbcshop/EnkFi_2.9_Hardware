@@ -11,7 +11,7 @@ This Github provides hardware design files for EnkFi 2.9" E-Paper.
   - [/Mechanical Data](https://github.com/sbcshop/EnkFi_2.9_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
   - [Getting Started Guide](https://github.com/sbcshop/EnkFi_2.9_Software) - This repo contains EnkFi 2.9" E-Paper Getting Started instructions.
 
-**Disclaimer: "The files provided, including mechanical dimensions, and STEP files, are for reference only. Variations may exist between these files and the actual physical product. We do not assume responsibility for any discrepancies or damages resulting from their use. It is strongly recommended to verify all critical dimensions and specifications using the physical product before manufacturing or integration.**
+**Disclaimer: The files provided, including mechanical dimensions, and STEP files, are for reference only. Variations may exist between these files and the actual physical product. We do not assume responsibility for any discrepancies or damages resulting from their use. It is strongly recommended to verify all critical dimensions and specifications using the physical product before manufacturing or integration.**
 
 ## Related Products  
   
